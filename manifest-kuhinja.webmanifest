@@ -1,0 +1,26 @@
+{
+  "id": "/riba-ribi-grize-rep/kuhinja",
+  "name": "Riba ribi grize rep · Kuhinja",
+  "short_name": "Kuhinja",
+  "description": "Portal za kuhinju — Konoba Riba ribi grize rep",
+  "lang": "sr",
+  "start_url": "/riba-ribi-grize-rep/kuhinja",
+  "scope": "/riba-ribi-grize-rep/kuhinja",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0E2440",
+  "background_color": "#0E2440",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

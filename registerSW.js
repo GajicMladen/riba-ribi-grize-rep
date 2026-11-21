@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/riba-ribi-grize-rep/sw.js', { scope: '/riba-ribi-grize-rep/' })})}
